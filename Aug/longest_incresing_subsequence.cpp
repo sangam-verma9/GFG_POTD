@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// brute force approach (TLE)
+//*******  brute force approach (TLE) *********
 class Solution
 {
 public:
